@@ -1,0 +1,11 @@
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\obj\Debug\sinemaCokluSecim.csprojResolveAssemblyReference.cache
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\obj\Debug\sinemaCokluSecim.Form1.resources
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\obj\Debug\sinemaCokluSecim.Properties.Resources.resources
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\obj\Debug\sinemaCokluSecim.SatinAL.resources
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\obj\Debug\sinemaCokluSecim.csproj.GenerateResource.Cache
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\obj\Debug\sinemaCokluSecim.csproj.CoreCompileInputs.cache
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\bin\Debug\sinemaCokluSecim.exe.config
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\bin\Debug\sinemaCokluSecim.exe
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\bin\Debug\sinemaCokluSecim.pdb
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\obj\Debug\sinemaCokluSecim.exe
+c:\users\sony vaio\source\repos\sinemaCokluSecim\sinemaCokluSecim\obj\Debug\sinemaCokluSecim.pdb
