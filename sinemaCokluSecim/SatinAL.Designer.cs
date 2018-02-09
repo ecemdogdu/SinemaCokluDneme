@@ -70,13 +70,13 @@
             // 
             this.panel1.Location = new System.Drawing.Point(19, 37);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(244, 142);
+            this.panel1.Size = new System.Drawing.Size(244, 212);
             this.panel1.TabIndex = 17;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(31, 198);
+            this.label1.Location = new System.Drawing.Point(313, 91);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(71, 13);
             this.label1.TabIndex = 25;
@@ -85,7 +85,7 @@
             // lblUcret
             // 
             this.lblUcret.AutoSize = true;
-            this.lblUcret.Location = new System.Drawing.Point(139, 198);
+            this.lblUcret.Location = new System.Drawing.Point(421, 91);
             this.lblUcret.Name = "lblUcret";
             this.lblUcret.Size = new System.Drawing.Size(10, 13);
             this.lblUcret.TabIndex = 26;
@@ -101,7 +101,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(41, 224);
+            this.label2.Location = new System.Drawing.Point(323, 117);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(69, 13);
             this.label2.TabIndex = 28;
@@ -110,7 +110,7 @@
             // lblMusteriUcret
             // 
             this.lblMusteriUcret.AutoSize = true;
-            this.lblMusteriUcret.Location = new System.Drawing.Point(113, 224);
+            this.lblMusteriUcret.Location = new System.Drawing.Point(395, 117);
             this.lblMusteriUcret.Name = "lblMusteriUcret";
             this.lblMusteriUcret.Size = new System.Drawing.Size(10, 13);
             this.lblMusteriUcret.TabIndex = 29;
